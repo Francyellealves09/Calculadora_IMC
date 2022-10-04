@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView textResultado;
     private EditText editpeso;
     private EditText editaltura;
-
+    private String pedro;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
